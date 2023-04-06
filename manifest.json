@@ -1,0 +1,17 @@
+{
+    "name" : "yt-ad-skipper",
+    "version" : "1.0.0",
+    "description" : "A custome chrome extension which bypasses all youtube ads",
+    "manifest_version" : 3,
+    "author" : "Adarsh Kumar",
+    "content_scripts" : [
+        {
+            "matches" : [
+                "<all_urls>"
+            ],
+            "js" : [
+                "content_scripts/content.js"
+            ]
+        }
+    ]
+}
