@@ -1,5 +1,5 @@
 {
-    "name": "yt-ad-skipper",
+    "name": "YT-Ad-Skipper",
     "version": "1.0.0",
     "description": "A custome chrome extension which bypasses all youtube ads",
     "manifest_version": 3,
