@@ -4,7 +4,7 @@ div.innerText = "yt-ad-skipper is activated";
 div.setAttribute(
   "style",
   `background: rgba(95, 95, 95, 0.37);
-            color: rgb(175, 175, 175);
+            color: rgb(45 63 187);
             position: fixed;
             top: 20px;
             right: 40px;
@@ -15,7 +15,7 @@ div.setAttribute(
             display: flex;
             justify-content: center;
             align-items: center;
-            border: 1px solid rgb(159, 159, 159);
+            border: 1px solid rgb(45 63 187);
             border-radius: 11px;
             backdrop-filter: blur(2px);`
 );
