@@ -4,15 +4,14 @@
     "description" : "A custome chrome extension which bypasses all youtube ads",
     "manifest_version" : 3,
     "author" : "Adarsh Kumar",
-    "action" : {
-        "default_icon" : "icons/offstate2.png"
-    },
     "icons" : {
         "24" : "icons/offstate2.png"
     },
     "content_scripts" : [
         {
-            "matches" : ["https://www.youtube.com/*"],
+            "matches" : [
+                "https://www.youtube.com/*"
+            ],
             "js" : [
                 "content_scripts/content.js"
             ]
