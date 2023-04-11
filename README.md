@@ -1,5 +1,5 @@
-# yt ad skipper
-* This is a custome chrome extension which can bypass all youtube ads
+# YT Ad Skipper
+The "YT Ad Skipper" project is a custom Chrome extension that aims to bypass or automatically skip YouTube ads when using the Google Chrome web browser. The extension is designed to enhance the user experience on YouTube by eliminating interruptions caused by ads during video playback.
 
 ## how to use?
 * step 1: clone the repository to your local pc
